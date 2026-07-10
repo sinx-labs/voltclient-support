@@ -2,7 +2,7 @@
 
 All notable changes to Volt Client are documented in this file.
 
-## 0.0.2 - 2026-07-10
+## 0.0.3 - 2026-07-10
 
 ### Added
 

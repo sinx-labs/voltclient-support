@@ -6,7 +6,7 @@ This public repository is the support and documentation home for Volt Client. Th
 
 ## Get Volt Client
 
-Volt Client will be available from the Visual Studio Marketplace as `sinx-labs.volt-client`.
+Volt Client will be available from the Visual Studio Marketplace as `sinx-labs.volt-api-client`.
 
 ## Support
 

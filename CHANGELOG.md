@@ -4,6 +4,10 @@ All notable changes to Volt Client are documented in this file.
 
 ## 0.0.3 - 2026-07-10
 
+### Changed
+
+- Changed the Marketplace extension identifier to `sinx-labs.volt-api-client` after the previous identifier was removed.
+
 ### Added
 
 - Local-first REST request editing and execution.

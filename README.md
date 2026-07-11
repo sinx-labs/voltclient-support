@@ -14,7 +14,7 @@ Volt Client will be available from the Visual Studio Marketplace as `sinx-labs.v
 - [Request a feature](https://github.com/sinx-labs/voltclient-support/issues/new?template=feature_request.yml)
 - [Read the FAQ](FAQ.md)
 - [View the roadmap](ROADMAP.md)
-- [Review the changelog](CHANGELOG.md)
+- [View releases on the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=sinx-labs.volt-api-client)
 
 Before opening an issue, remove API keys, tokens, passwords, cookies, private URLs, request bodies, and other sensitive information from screenshots and logs.
 
